@@ -1,6 +1,4 @@
-// never write secrets on your base code
-// default settins
-// this defined a template for all settings on the app
 {
-  "jwtPrivateKey": ""
+  "jwtPrivateKey": "",
+  "nota": " never write secrets on your base code default settins this defined a template for all settings on the app"
 }
