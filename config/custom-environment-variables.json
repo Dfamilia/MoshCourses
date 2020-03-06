@@ -1,0 +1,6 @@
+// this map between our app settings varibale and environment
+// variables!
+
+{
+  "jwtPrivateKey": "vidly_jwtPrivateKey"
+}
